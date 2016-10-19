@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Amazon Coffee</string>
+    <string name="login">Login</string>
+    <string name="signup">สมัครสมาชิก</string>
+    <string name="guest">Guest</string>
+
+    <string name="name">ชื่อ</string>
+    <string name="sur">นามสกุล</string>
+    <string name="add">ที่อยู่</string>
+    <string name="phone">โทรศัพท์</string>
+    <string name="user">User</string>
+    <string name="pass">Pass</string>
+    <string name="order">สั่งกาแฟ</string>
+    <string name="readorder">ตรวจสอบรายการ</string>
+    <string name="headorder">รายการ กาแฟ</string>
+    <string name="headconfirm">ใบเสร็จรับเงิน</string>
+    <string name="hr">เวลาที่จะมารับกาแฟ</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="address_shop">2 หมู่ 1 ต.ห้วยพุก อ.ดงเจริญ จ.พิจิตร 66210</string>
+    <string name="phone_shop">Tel: 083-0684234</string>
+    <string name="information">*แตะโลโก้เพื่อตรวจสอบเส้นทาง*</string>
+    <string name="list_order">ดูรายการสั่งกาแฟ</string>
+    <string name="finish">รับแล้ว</string>
+    <string name="non_finsh">รอ</string>
+
+</resources>
